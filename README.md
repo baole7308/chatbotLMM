@@ -27,8 +27,8 @@
 ### 1. Clone project
 
 ```bash
-git clone https://github.com/yourusername/streaming-chatbot.git
-cd streaming-chatbot
+git clone https://github.com/baole7308/chatbotLMM.git
+cd chatbotLMM
 ```
 
 ### 2. Cài đặt thư viện
