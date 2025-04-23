@@ -108,14 +108,3 @@ streaming-chatbot/
 ```
 
 ---
-
-## 📜 Giấy phép
-
-MIT License © 2025 Bảo
-
----
-
-## 📬 Liên hệ
-
-- Email: your_email@example.com
-- GitHub: [@yourusername](https://github.com/yourusername)
