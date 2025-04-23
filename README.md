@@ -90,7 +90,7 @@ python main.py
 
 ## 📺 Demo Giao Diện
 
-![Chatbot Screenshot](![Alt text](image.png)) _(bạn có thể chụp ảnh màn hình và đổi tên)_
+![Alt text](image.png)
 
 ---
 
