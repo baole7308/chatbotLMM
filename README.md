@@ -1,6 +1,6 @@
 # 💬 Streaming Chatbot with OpenAI, Flask & Gradio
 
-Ứng dụng Chat Bot với khả năng **phản hồi dạng streaming** sử dụng OpenAI SDK. Backend được xây dựng bằng Flask và giao diện đơn giản bằng Gradio.
+Ứng dụng Chat Bot với khả năng **phản hồi dạng streaming** sử dụng OpenAI SDK. Được xây dựng giao diện đơn giản bằng Gradio.
 
 ---
 
@@ -9,7 +9,6 @@
 - 🤖 Chat GPT hỗ trợ streaming phản hồi
 - 🔐 Sử dụng API Key từ OpenAI
 - 🌐 Giao diện đơn giản bằng Gradio
-- ⚡ Kết nối Flask backend và Gradio frontend
 
 ---
 
@@ -41,12 +40,14 @@ pip install -r requirements.txt
 >
 > ```
 > openai
-> flask
 > gradio
 > requests
 > ```
 
 ### 3. Cấu hình API Key
+
+API được lấy từ trang https://openrouter.ai
+Chọn model : gpt-3.5-turbo-0613
 
 Tạo file `.env` (hoặc chỉnh trực tiếp trong code):
 
