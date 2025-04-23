@@ -52,6 +52,7 @@ Tạo file `.env` (hoặc chỉnh trực tiếp trong code):
 
 ```bash
 OPENAI_API_KEY=your_openai_api_key_here
+BASE_URL=https://openrouter.ai/api/v1
 ```
 
 Trong file Python, cấu hình như sau:
@@ -65,16 +66,24 @@ openai.api_key = os.getenv("OPENAI_API_KEY")
 
 ## ▶️ Chạy ứng dụng
 
-### Bước 1: Chạy backend Flask
+### Bước 1: Chạy chatbot
 
 ```bash
-python app.py
+python chatbot.py
 ```
 
 ### Bước 2: Chạy frontend Gradio
 
 ```bash
-python gradio_app.py
+python interface.py
+```
+
+---
+
+### Bước 3: Chạy hàm main
+
+```bash
+python main.py
 ```
 
 ---
