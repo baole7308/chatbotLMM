@@ -98,11 +98,13 @@ python main.py
 
 ```
 streaming-chatbot/
-├── app.py             # Flask backend
-├── gradio_app.py      # Giao diện Gradio
-├── requirements.txt   # Các thư viện cần thiết
-├── README.md          # Tài liệu này
-└── .env               # Chứa API Key (không commit lên GitHub)
+├── .env
+├── chatbot.py
+├── image.png
+├── interface.py
+├── main.py
+├── README.md
+└── requirements.txt
 ```
 
 ---
