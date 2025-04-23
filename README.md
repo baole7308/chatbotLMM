@@ -15,7 +15,6 @@
 ## 🛠️ Công nghệ sử dụng
 
 - Python 3.x
-- Flask
 - OpenAI SDK
 - Gradio
 
